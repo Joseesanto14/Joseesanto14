@@ -1,73 +1,33 @@
-# 📦 Sistema Comércio POO - Trabalho P1
+# Salve! Sou o José Elias 👋
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+### Desenvolvedor Android | Kotlin & Java
 
-Este projeto é o **Trabalho de POO - P1**, desenvolvido para a disciplina de Programação Orientada a Objetos. O sistema consiste em uma aplicação desktop para gestão comercial, consolidando conceitos de POO, encapsulamento e interfaces gráficas.
+Atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC Botucatu (Conclusão em 2027). Meu foco é o desenvolvimento mobile nativo, transformando necessidades reais em soluções técnicas escaláveis.
 
----
+* telescope **Atualmente trabalhando em:** Modernização e migração do app **Kadorna Táxi** (de Java/SQLite para Kotlin/Jetpack Compose/Room).
+* seedling **Estudando no momento:** **Kotlin, Jetpack Compose, Arquitetura MVVM e Room Database**.
+* rocket **Experiência recente:** Liderança de equipe no Hackathon de Nefrologia da Unesp.
+* briefcase **Buscando oportunidades** para atuar como Desenvolvedor Android e resolver problemas reais com código limpo.
 
-## 🎯 Funcionalidades Implementadas
+### 🛠️ Tecnologias e Ferramentas
 
-O sistema permite a gestão completa de quatro entidades fundamentais através de operações de:
-- **🔍 Consulta**: Visualização dinâmica de registros através de seletores.
-- **➕ Inserção**: Cadastro de novos registros com validação de campos.
-- **📝 Alteração**: Edição de dados existentes com persistência em memória.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,git&theme=light" alt="Tecnologias e Ferramentas" />
+</p>
 
-### 🔐 Controle de Acesso
-O sistema conta com uma tela de login e diferenciação de permissões:
-- **Nível ADMIN**: Acesso total ao sistema, incluindo o gerenciamento de novos usuários.
-- **Nível USUARIO**: Acesso limitado aos cadastros operacionais (Clientes, Fornecedores e Produtos).
+<br>
 
-**Credenciais Padrão:**
-- **Usuário:** `admin`
-- **Senha:** `admin123`
+### 📊 Estatísticas do GitHub
 
----
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joseesanto14&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=30363d" width="420" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joseesanto14&layout=compact&locale=pt-br&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=30363d" width="390" />
+</p>
 
-## 🚀 Entidades Gerenciadas
+<br>
 
-- **👤 Cadastro de Usuários**: Gestão de operadores (exclusivo para administradores).
-- **👥 Cadastro de Clientes**: Controle de CPF, contato e endereço.
-- **⚙️ Gestão de Produtos**: Controle de itens vinculados a fornecedores.
-- **🏢 Gestão de Fornecedores**: Registro e vinculação de parceiros comerciais.
+### 📫 Como me encontrar
 
----
-
-## 🛠️ Tecnologias e Arquitetura
-
-- **Linguagem**: Java 8+.
-- **GUI**: Desenvolvido com **Java Swing** e **AWT** (layouts responsivos com `GroupLayout`).
-- **Persistência**: Armazenamento em memória utilizando `ArrayList` e passagem de referências entre telas.
-- **Padrões**: Encapsulamento de atributos, uso de Enums para níveis de acesso e composição de objetos.
-
----
-
-## 📂 Fluxo do Sistema
-
-```mermaid
-graph TD
-  Start(Início) --> Login[Tela de Login]
-  Login --> Auth{Autenticação}
-  Auth -- Falha --> Login
-  Auth -- Sucesso --> Principal[Tela Principal]
-  Principal --> Clientes[Módulo Clientes]
-  Principal --> Fornecedores[Módulo Fornecedores]
-  Principal --> Produtos[Módulo Produtos]
-  Principal --> Admin{É Admin?}
-  Admin -- Sim --> Usuarios[Módulo Usuários]
-  Admin -- Não --> Principal
-```
-
----
-
-## 💻 Como Executar
-
-1. Abra o projeto no **Apache NetBeans**.
-2. Certifique-se de possuir o JDK configurado (versão 8 ou superior).
-3. Execute a classe principal `Projeto.java` localizada no pacote `projeto`.
-
----
-Desenvolvido por **Jose Elias** como parte da avaliação de POO - P1.
+<a href="https://www.linkedin.com/in/joseesanto14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:joseelias.12muniz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
