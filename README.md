@@ -6,7 +6,7 @@ Atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na 
 
 * :telescope: **Atualmente trabalhando em:** Modernização e migração do app **Kadorna Táxi** (de Java/SQLite para Kotlin/Jetpack Compose/Room).
 * :seedling: **Estudando no momento:** **Kotlin, Jetpack Compose, Arquitetura MVVM e Room Database**.
-* :rocket: **Experiência recente:** Liderança de equipe no Hackathon de Nefrologia da Unesp.
+* :rocket: **Experiência recente:** Liderança de equipe no Hackathon de Nefrologia da Unesp e 2º lugar no Hacka PagBank (Hackeando a Experiência do cliente).
 * :briefcase: **Buscando oportunidades** para atuar como Desenvolvedor Android e resolver problemas reais com código limpo.
 
 ### 🛠️ Tecnologias e Ferramentas
