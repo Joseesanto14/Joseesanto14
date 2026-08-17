@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Android | Kotlin & Java
 
-Atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC Botucatu (Conclusão em 2027). Meu foco é o desenvolvimento mobile nativo, transformando necessidades reais em soluções técnicas escaláveis.
+Atualmente cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na FATEC Botucatu (Conclusão em 2027). Meu foco é o desenvolvimento mobile nativo, transformando necessidades reais em soluções técnicas escaláveis.
 
 * :telescope: **Atualmente trabalhando em:** Modernização e migração do app **Kadorna Táxi** (de Java/SQLite para Kotlin/Jetpack Compose/Room).
 * :seedling: **Estudando no momento:** **Kotlin, Jetpack Compose, Arquitetura MVVM e Room Database**.
@@ -20,9 +20,9 @@ Atualmente cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na 
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joseesanto14&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=0d1117&title_color=cc0000&text_color=c9d1d9&icon_color=cc0000&border_color=30363d" width="420" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Joseesanto14&show_icons=true&include_all_commits=true&show=prs_merged&locale=pt-br&bg_color=0d1117&title_color=cc0000&text_color=c9d1d9&icon_color=cc0000&border_color=30363d" width="420" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joseesanto14&layout=compact&locale=pt-br&bg_color=0d1117&title_color=cc0000&text_color=c9d1d9&icon_color=cc0000&border_color=30363d" width="390" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Joseesanto14&layout=compact&locale=pt-br&bg_color=0d1117&title_color=cc0000&text_color=c9d1d9&icon_color=cc0000&border_color=30363d" width="390" />
 </p>
 
 <br>
